@@ -1,0 +1,25 @@
+.icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 4em;
+    align-items: center;
+    .icon {
+        @include hexagon(10em, #ccc);
+        display: flex;
+        align-self: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: 2em;
+    }
+    .icon-title {
+        display: none;
+    }
+    .icon-img {
+        width: 6em;
+        height: 6em;
+        margin: 0 auto;
+        display: flex;
+    }
+}

@@ -2,8 +2,12 @@
 @import 'base/reset';
 @import 'base/core';
 @import 'base/typography';
+@import 'base/body';
+@import 'base/mixins';
 
 // --> elements <--
 @import 'elements/input';
+@import 'elements/hexagon';
+@import 'elements/icons';
 
 // --> modules <--
