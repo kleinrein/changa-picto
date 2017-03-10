@@ -1,0 +1,12 @@
+.input-search {
+  background-color: $colorDesertStorm;
+  border-radius: 1em;
+  width: 30em;
+  outline: none;
+  border: transparent;
+  padding: 1em;
+  margin-top: 2em;
+  &[placeholder] {
+    text-align: center;
+  }
+}
