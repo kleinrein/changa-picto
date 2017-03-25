@@ -1,14 +1,14 @@
 <template>
-<div class="hello">
-	<input type="text" placeholder="search" class="input-search" v-model="search" />
+	<div class="hello">
+		<input type="text" placeholder="search" class="input-search" v-model="search" />
 
-	<div class="icons">
-		<div v-for="icon in icons" class="icon hexagon">
-			<span class="icon-title">{{icon.title}}</span>
-			<img class="icon-img" :src="imgUrl(icon.filename)">
+		<div class="icons">
+			<div v-for="icon in icons" v-if="icon.replace('.svg', '') === search || icon.replace('.svg', '').includes(search)" class="icon">
+				<span class="icon-title">{{icon.replace('.svg', '')}}</span>
+				<img class="icon-img" :src="imgUrl(icon)">
+			</div>
 		</div>
 	</div>
-</div>
 </template>
 
 <script>
@@ -22,15 +22,7 @@ export default {
 		      return icons('./' + path)
 		   	},
 			search: '',
-			icons: [{
-					title: 'Comment',
-					filename: "comment.svg"
-				},
-				{
-					title: 'Comment O',
-					filename: 'comment-o.svg'
-				}
-			]
+			icons: ["comment-o.svg", "comment.svg", "commenting-o.svg", "commenting.svg", "messaging.svg"]
 		}
 	}
 }
