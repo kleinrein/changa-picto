@@ -9,6 +9,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "save-svg-as-png": "^1.2.0",
     "vue": "^2.2.2",
     "vue-animated-list": "^1.0.2",
     "vue-router": "^2.2.0"

@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st3{fill:none;}
-	.st4{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st5{stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{fill:#fff;}</style></defs><title>changa</title><g id="_Group_" data-name="&lt;Group&gt;"><g id="_Group_2" data-name="&lt;Group&gt;"><rect id="_Path_" data-name="&lt;Path&gt;" class="cls-1" x="4.13" y="4.3" width="55.37" height="55.36" rx="4.47" ry="4.47"/><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M55,5a3.72,3.72,0,0,1,3.72,3.72V55.19A3.72,3.72,0,0,1,55,58.91H8.6a3.72,3.72,0,0,1-3.72-3.72V8.77A3.72,3.72,0,0,1,8.6,5H55m0-1.5H8.6A5.22,5.22,0,0,0,3.38,8.77V55.19A5.22,5.22,0,0,0,8.6,60.41H55a5.22,5.22,0,0,0,5.22-5.22V8.77A5.22,5.22,0,0,0,55,3.55Z"/></g><rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-1" x="55.97" y="0.77" width="2.94" height="8.05" rx="1.05" ry="1.05" transform="matrix(0.6, 0.8, -0.8, 0.6, 26.84, -44.04)"/><rect id="_Rectangle_2" data-name="&lt;Rectangle&gt;" class="cls-1" x="25.01" y="56.08" width="7.45" height="7.61" rx="2.2" ry="2.2"/><g id="_Group_3" data-name="&lt;Group&gt;"><path id="_Path_2" data-name="&lt;Path&gt;" d="M11.1,29.36,27.88,63.28a28.3,28.3,0,0,0,3.22-.86C31.31,37.4,43,14.55,64,.67c-.87.58-2.34.28-3.22.86-21,13.87-32.69,36.73-32.89,61.75l3.22-.86L14.33,28.5c-.11-.22-3.14,1-3.22.86Z"/></g></g></svg>

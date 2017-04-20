@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st3{fill:none;}
-	.st4{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st5{stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{fill:#fff;}.cls-2{stroke:#fff;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><title>changa</title><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M32,63.16A31.16,31.16,0,1,1,63.16,32,31.2,31.2,0,0,1,32,63.16Z"/><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M32,1.59A30.41,30.41,0,1,1,1.59,32,30.45,30.45,0,0,1,32,1.59m0-1.5A31.91,31.91,0,1,0,63.91,32,31.95,31.95,0,0,0,32,.09Z"/></g><g id="_Group_2" data-name="&lt;Group&gt;"><path id="_Path_2" data-name="&lt;Path&gt;" d="M32,8.85c.43,4.44.58,8.88.69,13.31,0,2.22.07,4.44,0,6.65s0,4.43-.08,6.65l-.29-.7c1.14,1.12,2.25,2.28,3.36,3.43s2.2,2.32,3.3,3.49,2.17,2.36,3.22,3.57,2.11,2.42,3.12,3.68c-1.27-1-2.5-2-3.72-3.06S39.23,43.77,38,42.7s-2.38-2.14-3.54-3.25S32.15,37.27,31,36.15l-.29-.28v-.42q0-3.33.08-6.65c0-2.22.13-4.43.21-6.65C31.21,17.71,31.47,13.28,32,8.85Z"/></g><circle id="_Path_3" data-name="&lt;Path&gt;" cx="32" cy="4.17" r="0.83"/><circle id="_Path_4" data-name="&lt;Path&gt;" cx="32" cy="58.92" r="0.83"/><circle id="_Path_5" data-name="&lt;Path&gt;" cx="3.68" cy="32" r="0.83"/><circle id="_Path_6" data-name="&lt;Path&gt;" cx="59.5" cy="32" r="0.83"/><circle id="_Path_7" data-name="&lt;Path&gt;" class="cls-2" cx="31.69" cy="35.19" r="4.81"/></svg>

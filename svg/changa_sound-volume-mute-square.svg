@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st3{fill:none;}
-	.st4{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-	.st5{stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{fill:#fff;}</style></defs><title>changa</title><rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" width="64" height="64" rx="2" ry="2"/><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M35.11,14.74a1,1,0,0,0-1,.07L21.37,23.64l-7.23,0a2.49,2.49,0,0,0-2.3,1.57V38.57a2.49,2.49,0,0,0,2.38,1.8l7.11,0,12.74,8.86a1,1,0,0,0,1.56-.82V15.63A1,1,0,0,0,35.11,14.74Z"/><path id="_Path_2" data-name="&lt;Path&gt;" class="cls-1" d="M48.14,32.37l3.49-3.49a1.8,1.8,0,0,0,0-2.53l-.55-.55a1.8,1.8,0,0,0-2.53,0l-3.49,3.49-3.49-3.49a1.8,1.8,0,0,0-2.53,0l-.55.55a1.8,1.8,0,0,0,0,2.53L42,32.37l-3.49,3.49a1.8,1.8,0,0,0,0,2.53l.55.55a1.8,1.8,0,0,0,2.53,0l3.49-3.49,3.49,3.49a1.8,1.8,0,0,0,2.53,0l.55-.55a1.8,1.8,0,0,0,0-2.53Z"/></g></svg>
