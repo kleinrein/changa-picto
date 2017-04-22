@@ -1,0 +1,38 @@
+.modal {
+    position: fixed;
+    width: 26rem;
+    height: 28rem;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 2em;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    box-shadow: 1px 2px 25px rgba(0,0,0,.5);
+    z-index: 10;
+
+    h2, h3 {
+        text-transform: uppercase;
+    }
+
+    #modal-icon-title {
+        margin-bottom: 1em;
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+
+    img {
+        height: 14em;
+        max-width: 100%;
+    }
+}
+
+
+#modal-icon-img {
+    width: 6em;
+    max-height: 100%;
+    margin: 0 auto;
+    display: flex;
+}

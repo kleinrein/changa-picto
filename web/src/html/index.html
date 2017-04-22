@@ -1,0 +1,26 @@
+{% extends 'layouts/application.html' %}
+{% block content %}
+<div class="overlay blur"></div>
+<div id="app">
+    <h4>changa picto</h4>
+
+    <input type="text" placeholder="search" class="input-search" />
+    <div class="icons">
+        {% for icon in icons %}
+            <div class="icon">
+                <span class="icon-title">{{icon}}</span>
+                <img class="icon-img" src="images/icons/{{ icon }}" />
+            </div>
+        {% endfor %}
+    </div>
+
+    <div class="modal" style="display: none;">
+        <h3 id="modal-icon-title"></h3>
+        <img id="modal-icon-img" />
+
+        <h2>DOWNLOAD AS</h2>
+        <a class="btn--purple">PNG</a>
+        <a class="btn--green" id="modal-icon-download-svg" href="#" download>SVG</a>
+    </div>
+</div>
+{% endblock %}
