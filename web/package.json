@@ -1,5 +1,10 @@
 {
-  "dependencies": {
-    "blendid": "^4.0.0-rc.1"
-  }
+    "scripts": {
+        "start": "yarn run blendid",
+        "build": "yarn run blendid--build"
+    },
+    "dependencies": {
+        "blendid": "^4.0.0-rc.1",
+        "dynamics.js": "^1.1.5"
+    }
 }
