@@ -1,9 +1,9 @@
 import Icon from './modules/icon'
 import * as dynamics from 'dynamics.js'
+import anime from 'animejs'
 
 let icons = []
 let filteredIcons = []
-
 const modal = document.querySelector(".modal")
 
 Array.from(document.querySelectorAll(".icon")).forEach(el => {
@@ -21,18 +21,25 @@ Array.from(document.querySelectorAll(".icon")).forEach(el => {
 // Close modal
 const overlay = document.querySelector(".overlay")
 overlay.addEventListener("click", () => {
-    overlay.style.display = 'none'
-
     icons.forEach(icon => icon.el.querySelector("img").style.filter = 'blur(0)')
     document.querySelector(".input-search").style.filter = 'blur(0)'
 
-    dynamics.animate(modal, {
-        scale: 0,
-    }, {
-        type: dynamics.spring,
-        frequency: 200,
-        friction: 150,
-        duration: 400
+    anime({
+        targets: overlay,
+        opacity: 0,
+        duration: 200,
+        complete: function(anim) {
+            overlay.style.display = 'none'
+        }
+    })
+
+    anime({
+      targets: modal,
+      scale: 0,
+      duration: 300,
+      complete: function(anim) {
+          modal.style.display = 'none'
+      }
     })
 })
 

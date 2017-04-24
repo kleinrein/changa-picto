@@ -4,6 +4,7 @@
         "build": "yarn run blendid--build"
     },
     "dependencies": {
+        "animejs": "^2.0.2",
         "blendid": "^4.0.0-rc.1",
         "dynamics.js": "^1.1.5"
     }
