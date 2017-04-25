@@ -15,11 +15,15 @@
 
     h2, h3 {
         text-transform: uppercase;
+        font-weight: 300;
     }
 
     #modal-icon-title {
-        margin-bottom: 1em;
-        font-size: 1.5rem;
+        margin-bottom: .25em;
+        font-weight: 300;
+    }
+
+    h5 {
         font-weight: 100;
     }
 

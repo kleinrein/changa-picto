@@ -1,17 +1,21 @@
 
 <!doctype html>
 <html>
-  <head>
+
+<head>
     <meta charset="utf-8">
     <title>changa ico</title>
     <link rel="stylesheet" href="stylesheets/app.css">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900" rel="stylesheet"> 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Generate using http://realfavicongenerator.net/ -->
 
 
     
-  </head>
-  <body>
+    
+</head>
+
+<body>
     
 <div class="overlay blur"></div>
 <div id="app">
@@ -441,14 +445,15 @@
         <h3 id="modal-icon-title"></h3>
         <img id="modal-icon-img" />
 
-        <h2>DOWNLOAD AS</h2>
-        <a class="btn--purple">PNG</a>
+        <h5>DOWNLOAD AS</h5>
+        <a class="btn--purple" id="modal-icon-download-png" href="#" download>PNG</a>
         <a class="btn--green" id="modal-icon-download-svg" href="#" download>SVG</a>
     </div>
+    <canvas id="canvas" style="display:none"></canvas>
 </div>
+ 
+    <script src="javascripts/app.js"></script>
+    
+</body>
 
-    
-      <script src="javascripts/app.js"></script>
-    
-  </body>
 </html>

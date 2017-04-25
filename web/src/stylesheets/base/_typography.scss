@@ -1,8 +1,36 @@
 // .. typography ..
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+
+:root {
+    font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2E2E2E;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 400%;
+    letter-spacing: -2px;
+}
+
+h2 {
+    font-size: 250%;
+    letter-spacing: -1px;
+}
+
+h3 {
+    font-size: 200%;
+}
+
+h4 {
+    font-size: 180%;
+}
+
+h5 {
+    font-size: 130%;
+}
+
+h6 {
+    font-size: 110%;
 }

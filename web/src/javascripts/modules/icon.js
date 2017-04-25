@@ -19,10 +19,12 @@ export default class Icon {
         })
 
         anime({
-          targets: modal,
-          scale: 1.2,
-          duration: 600
+            targets: modal,
+            scale: 1.2,
+            duration: 600,
+            opacity: 1
         })
+
 
         document.getElementById("modal-icon-title").innerHTML = this.title
         document.getElementById("modal-icon-download-svg").setAttribute("href", this.path)
