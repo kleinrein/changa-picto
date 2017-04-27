@@ -6,6 +6,8 @@
     "dependencies": {
         "animejs": "^2.0.2",
         "blendid": "^4.0.0-rc.1",
-        "dynamics.js": "^1.1.5"
+        "dynamics.js": "^1.1.5",
+        "stackblur-canvas": "^1.4.0",
+        "velocity-animate": "^1.5.0"
     }
 }

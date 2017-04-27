@@ -1,6 +1,7 @@
 import Icon from './modules/icon'
 import * as dynamics from 'dynamics.js'
 import anime from 'animejs'
+import StackBlur from "stackblur-canvas"
 
 let icons = []
 let filteredIcons = []
@@ -12,23 +13,14 @@ Array.from(document.querySelectorAll(".icon")).forEach(el => {
 
     el.addEventListener('click', function(event) {
         icon.showModal(modal)
-
-        anime({
-          targets: '.icons',
-          blur: '20px'
-        });
-
-
-        //document.querySelector(".icons").style.filter = 'blur(20px)'
-        //document.querySelector(".input-search").style.filter = 'blur(5px)'
     })
 })
 
 // Close modal
 const overlay = document.querySelector(".overlay")
 overlay.addEventListener("click", () => {
-    //document.querySelector(".icons").style.filter = 'blur(0)'
-    //document.querySelector(".input-search").style.filter = 'blur(0)'
+    document.querySelector(".icons").style.filter = 'blur(0)'
+    document.querySelector(".input-search").style.filter = 'blur(0)'
 
     anime({
         targets: overlay,
@@ -41,9 +33,9 @@ overlay.addEventListener("click", () => {
 
     anime({
         targets: modal,
-        scale: 0,
         opacity: 0,
-        duration: 300,
+        duration: 500,
+        translateY: -50,
         complete: function(anim) {
             modal.style.display = 'none'
         }
