@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{stroke:#FFFFFF;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
-	.st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-<g id="XMLID_249_">
-	<g id="XMLID_813_">
-		<path id="XMLID_251_" d="M53.9,46.5H10.1c-1,0-1.9-0.8-1.9-1.9V15.9c0-1,0.8-1.9,1.9-1.9h43.7c1,0,1.9,0.8,1.9,1.9v28.7
-			C55.7,45.6,54.9,46.5,53.9,46.5z M10.1,15.8c-0.1,0-0.1,0.1-0.1,0.1v28.7c0,0.1,0.1,0.1,0.1,0.1h43.7c0.1,0,0.1-0.1,0.1-0.1V15.9
-			c0-0.1-0.1-0.1-0.1-0.1H10.1z"/>
-	</g>
-	<path d="M36.2,47.6c-0.1,0.4-0.4,0.7-0.8,0.7h-6.9c-0.4,0-0.7-0.3-0.8-0.7H0.1l2,2.4h59.7l2-2.4H36.2z"/>
-</g>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>changa_laptop</title><g id="_Group_" data-name="&lt;Group&gt;"><g id="_Group_2" data-name="&lt;Group&gt;"><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M53.86,46.45H10.14a1.88,1.88,0,0,1-1.88-1.88V15.89A1.88,1.88,0,0,1,10.14,14H53.86a1.88,1.88,0,0,1,1.88,1.88V44.57A1.88,1.88,0,0,1,53.86,46.45ZM10.14,15.77a.12.12,0,0,0-.12.12V44.57a.12.12,0,0,0,.12.12H53.86a.12.12,0,0,0,.12-.12V15.89a.12.12,0,0,0-.12-.12Z"/></g><path d="M36.23,47.55a.77.77,0,0,1-.76.67H28.53a.77.77,0,0,1-.76-.67H.12l2,2.44H61.83l2-2.44Z"/></g></svg>
