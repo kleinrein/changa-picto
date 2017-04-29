@@ -16,6 +16,7 @@ export default class Icon {
 
         document.getElementById("modal-icon-title").innerHTML = this.title
         document.getElementById("modal-icon-download-svg").setAttribute("href", this.path)
+        document.getElementById("modal-icon-download-png").setAttribute("href", this.path.replace(".svg", ".png"))
         document.getElementById("modal-icon-img").setAttribute("src", this.path)
 
         anime({

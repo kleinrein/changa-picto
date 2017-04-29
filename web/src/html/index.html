@@ -1,16 +1,15 @@
-{% extends 'layouts/application.html' %}
-{% block content %}
+{% extends 'layouts/application.html' %} {% block content %}
 <div class="overlay blur"></div>
 <div id="app">
-    <h4>changa picto</h4>
+    <img class="changa-picto-logo" src="images/changa-picto-logo.svg"  />
 
     <input type="text" placeholder="search" class="input-search" />
     <div class="icons">
         {% for icon in icons %}
-            <div class="icon">
-                <span class="icon-title">{{icon}}</span>
-                <img class="icon-img" src="images/icons/{{ icon }}" />
-            </div>
+        <div class="icon">
+            <span class="icon-title">{{icon}}</span>
+            <img class="icon-img" src="images/svg/{{ icon }}" />
+        </div>
         {% endfor %}
     </div>
 
@@ -22,13 +21,19 @@
         <a class="btn--purple" id="modal-icon-download-png" href="#" download>PNG</a>
         <a class="btn--green" id="modal-icon-download-svg" href="#" download>SVG</a>
 
-        <input type="radio" name="size" value="12"  />12
-        <input type="radio" name="size" value="24"  />24
-        <input type="radio" name="size" value="64"  />64
-        <input type="radio" name="size" value="128"  />128
-        <input type="radio" name="size" value="256"  />256
-        <input type="radio" name="size" value="512"  />512
-
+        <ul class="size-radios">
+            {% for size in sizes %}
+            <li>
+                {% if size == 256 %}
+                    <input type="radio" name="size" id="size-{{size}}" value="{{size}}" checked="checked" />
+                {% else %}
+                    <input type="radio" name="size" id="size-{{size}}" value="{{size}}" />
+                {% endif %}
+                <label for="size-{{size}}">{{size}}</label>
+            </li>
+            {% endfor %}
+        </ul>
+        <span class="size-radios-label">px</span>
     </div>
     <canvas id="canvas" style="display:none"></canvas>
 </div>
