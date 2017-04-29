@@ -13,7 +13,7 @@ def generate_json():
 
 def save_json():
     json = generate_json()
-    json_path = os.path.join(GENERATE_PATH, '../web/src/components/changas.json')
+    json_path = os.path.join(GENERATE_PATH, '../web/src/html/data/changas.json')
     with open(json_path, 'w') as file:
         file.write(json)
 

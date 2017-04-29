@@ -15,7 +15,7 @@
     @include transition(background-color 600ms cubic-bezier(0,.97,.1,1));
 
     &:after {
-        @include transition(all 500ms cubic-bezier(0,.97,.1,1));
+        @include transition(all 1s cubic-bezier(0,.97,.1,1));
     }
 
     &:hover {
