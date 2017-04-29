@@ -1,15 +1,16 @@
 .input-search {
     background-color: $colorDesertStorm;
     border-radius: 15px;
-    width: 28rem;
+    width: 32rem;
     height: 1.15rem;
     font-size: 1.25rem;
     font-weight: 300;
     outline: none;
     border: transparent;
     padding: 1em;
-    margin-top: 2em;
+    margin-top: 6em;
     text-transform: uppercase;
+    letter-spacing: 3px;
 
     &[placeholder] {
         text-align: center;

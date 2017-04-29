@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{stroke:#FFFFFF;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
-	.st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-<g id="XMLID_127_">
-	<path id="XMLID_128_" d="M25.4,23.5c-2.3-4.2-6.7-7.1-11.9-7.1C6.1,16.4,0,22.5,0,30s6.1,13.5,13.5,13.5c5.6,0,10.3-3.4,12.4-8.1
-		C26.8,31.1,26,26.2,25.4,23.5z M8.9,34.5c-2.5,0-4.5-2-4.5-4.5s2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5S11.4,34.5,8.9,34.5z"/>
-	<path id="XMLID_131_" d="M60.6,24.9H26.7c0.1,0.7,0.3,1.5,0.4,2.4h31.7c0.6,0,1.1,0.2,1.1,0.4c0,0.2-0.5,0.4-1.1,0.4H27.2
-		c0.2,2.2,0.2,4.6-0.2,6.9h5.5l4-4l4,4h1.8l2.9-2.9l2.9,2.9h2.6l2.9-2.9l2.9,2.9h3.9L64,30L60.6,24.9z"/>
-</g>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>changa_key</title><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M25.41,23.5a13.53,13.53,0,1,0,.53,11.88C26.83,31.08,26,26.23,25.41,23.5Zm-16.48,11A4.55,4.55,0,1,1,13.48,30,4.55,4.55,0,0,1,8.93,34.52Z"/><path id="_Path_" data-name="&lt;Path&gt;" d="M60.59,24.91H26.74c.14.73.27,1.53.37,2.38H58.84c.59,0,1.08.19,1.08.41s-.49.41-1.08.41H27.2A25.64,25.64,0,0,1,27,35h5.48l4-4,4,4h1.8l2.95-2.95L48.21,35h2.63l2.95-2.95L56.72,35h3.87L64,30Z"/></g></svg>

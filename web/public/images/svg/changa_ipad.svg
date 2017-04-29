@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{stroke:#FFFFFF;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
-	.st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-<path id="XMLID_55_" d="M53.3,0H10.7c-1.1,0-2,0.9-2,2v60c0,1.1,0.9,2,2,2h42.7c1.1,0,2-0.9,2-2V2C55.3,0.9,54.4,0,53.3,0z M32,62.1
-	c-0.7,0-1.2-0.6-1.2-1.2c0-0.7,0.6-1.2,1.2-1.2c0.7,0,1.2,0.6,1.2,1.2C33.2,61.6,32.7,62.1,32,62.1z M51.3,57.4H12.7V3.7h38.7V57.4z
-	"/>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>changa_ipad</title><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M53.34,0H10.66a2,2,0,0,0-2,2V62a2,2,0,0,0,2,2H53.34a2,2,0,0,0,2-2V2A2,2,0,0,0,53.34,0ZM32,62.13a1.24,1.24,0,1,1,1.24-1.24A1.24,1.24,0,0,1,32,62.13Zm19.35-4.69H12.65V3.71H51.35Z"/></svg>

@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{stroke:#FFFFFF;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
-	.st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
-</style>
-<g id="XMLID_273_">
-	<path id="XMLID_274_" d="M32,25c-5.7,0-10.3,4.6-10.3,10.3S26.3,45.6,32,45.6S42.3,41,42.3,35.3S37.7,25,32,25z"/>
-	<path id="XMLID_275_" d="M59.6,15.8H45.3c-0.3-3.7-3.4-6.6-7.2-6.6H25.9c-3.8,0-6.9,2.9-7.2,6.6h-6.1c0-1.3-1.1-2.4-2.5-2.4H8
-		c-1.3,0-2.4,1.1-2.5,2.4H4.4c-2.4,0-4.4,2-4.4,4.4v30.1c0,2.4,2,4.4,4.4,4.4h55.1c2.4,0,4.4-2,4.4-4.4V20.3
-		C64,17.8,62,15.8,59.6,15.8z M9.1,20.2c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2c1.1,0,2,0.9,2,2C11.1,19.3,10.2,20.2,9.1,20.2z M32,49.3
-		c-7.7,0-14-6.3-14-14s6.3-14,14-14s14,6.3,14,14S39.7,49.3,32,49.3z"/>
-</g>
-</svg>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>changa_camera</title><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Path_" data-name="&lt;Path&gt;" d="M32,25A10.27,10.27,0,1,0,42.27,35.3,10.28,10.28,0,0,0,32,25Z"/><path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M59.56,15.83H45.29a7.26,7.26,0,0,0-7.2-6.6H25.9a7.26,7.26,0,0,0-7.2,6.6H12.59a2.49,2.49,0,0,0-2.48-2.4H8a2.49,2.49,0,0,0-2.48,2.4H4.44A4.45,4.45,0,0,0,0,20.26V50.33a4.45,4.45,0,0,0,4.44,4.44H59.56A4.45,4.45,0,0,0,64,50.33V20.26A4.45,4.45,0,0,0,59.56,15.83ZM9.06,20.24a2,2,0,1,1,2-2A2,2,0,0,1,9.06,20.24ZM32,49.26a14,14,0,1,1,14-14A14,14,0,0,1,32,49.26Z"/></g></svg>
