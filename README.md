@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/kleinrein/changa-picto/blob/master/web/src/images/changa-picto-logo.svg" width="300">
+  <img src="https://raw.githubusercontent.com/kleinrein/changa-picto/master/web/src/images/changa-picto-logo.svg" width="300">
 </p>
+
 # Changa Picto
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+
 > The shaman is not merely a sick man, or a madman; he is a sick man who has healed himself. _Terence McKenna_
 
 ## Description
