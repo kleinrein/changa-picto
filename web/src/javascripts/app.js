@@ -25,7 +25,7 @@ overlay.addEventListener("click", () => {
     anime({
         targets: overlay,
         opacity: 0,
-        duration: 200,
+        duration: 300,
         complete: function(anim) {
             overlay.style.display = 'none'
         }
@@ -34,7 +34,7 @@ overlay.addEventListener("click", () => {
     anime({
         targets: modal,
         opacity: 0,
-        duration: 500,
+        duration: 200,
         translateY: -50,
         complete: function(anim) {
             modal.style.display = 'none'
