@@ -6,6 +6,7 @@
     margin-top: 4em;
     align-items: center;
     margin: 4em 2em;
+    @include transition(all 600ms cubic-bezier(0,.97,.1,1));
 
     .icon {
         background-color: #ffffff;
@@ -19,6 +20,7 @@
         align-items: center;
         cursor: pointer;
         position: relative;
+        @include transition(all 600ms cubic-bezier(0,.97,.1,1));
 
         &:hover:after {
             opacity: 1;
