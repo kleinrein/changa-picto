@@ -2,9 +2,10 @@
   <img src="https://raw.github.com/kleinrein/changa-picto/master/web/src/images/changa-picto-logo.png" width="400">
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/kleinrein/changa-picto)
-[![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/kleinrein/changa-picto)
-[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/changa-picto)
+
+[![GitHub stars](https://img.shields.io/github/stars/kleinrein/changa-picto.svg?style=social&label=Star)](https://github.com/kleinrein/changa-picto)
+[![GitHub watchers](https://img.shields.io/github/watchers/kleinrein/changa-picto.svg?style=social&label=Watch)](https://github.com/kleinrein/changa-picto)
+[![GitHub followers](https://img.shields.io/github/followers/kleinrein.svg?style=social&label=Follow)](https://github.com/kleinrein/changa-picto)
 
 > The shaman is not merely a sick man, or a madman; he is a sick man who has healed himself. _Terence McKenna_
 
