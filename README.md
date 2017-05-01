@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kleinrein/changa-picto/master/web/src/images/changa-picto-logo.svg" width="300">
+  <img src="https://raw.github.com/kleinrein/changa-picto/master/web/src/images/changa-picto-logo.png" width="400">
 </p>
 
-# Changa Picto
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/kleinrein/changa-picto)
 [![GitHub watchers](https://img.shields.io/github/watchers/aritraroy/ultimate-android-reference.svg?style=social&label=Watch)](https://github.com/kleinrein/changa-picto)
 [![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/changa-picto)
