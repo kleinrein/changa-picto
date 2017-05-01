@@ -47,7 +47,7 @@ module.exports = {
   svgSprite: true,
 
   production: {
-    rev: true
+    rev: false
   },
 
   watch: {
@@ -56,4 +56,3 @@ module.exports = {
     }
   }
 }
-

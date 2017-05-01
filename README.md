@@ -17,7 +17,7 @@ I will continuously create new icons, if you have an icon request, please create
 
 ## Donate
 Changa Picto is a collection of free icons and it has no advertisements. By donating you can help aid the creation of new icons and keep them fresh. By donating you will help me dedicate more time to work on it :smile:
-- [Donate via Paypal]("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YNMWDT344V5PY")
+- [Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YNMWDT344V5PY)
 - Donate via Bitcoin 17c1p6JpWz1ZDQhpzBTzYC6j7hVe4KZ1Fu
 
 ## License
