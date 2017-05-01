@@ -1,0 +1,61 @@
+.information {
+    position: absolute;
+    right: 6.5em;
+    top: 7.25em;
+    text-align: right;
+    opacity: 0.5;
+    @include transition(all 150ms ease-in-out);
+
+    &:hover {
+        opacity: 1;
+    }
+
+    p {
+        margin-bottom: 0.5em;
+        margin-top: 0;
+        font-weight: 500;
+        color: $colorIron;
+    }
+
+    p:first-of-type a {
+        color: $colorIron;
+        font-weight: 600;
+    }
+
+    a:visited {
+        color: $colorBlue;
+    }
+
+    p:nth-child(2) {
+        a:first-of-type {
+            color: $colorBlue;
+        }
+
+        a:last-of-type {
+            color: $colorIron;
+            font-weight: 500;
+        }
+    }
+
+    p:nth-child(4) {
+        font-weight: 400;
+    }
+
+    a {
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    @media #{$mobile-dimens} {
+      position: relative;
+      width: 100%;
+      margin-bottom: 2em;
+      right: 0;
+      left: 0;
+      text-align: center;
+      top: 0;
+    }
+}
