@@ -1,7 +1,5 @@
 import Icon from './modules/icon'
-import * as dynamics from 'dynamics.js'
 import anime from 'animejs'
-import StackBlur from "stackblur-canvas"
 
 let icons = []
 let filteredIcons = []

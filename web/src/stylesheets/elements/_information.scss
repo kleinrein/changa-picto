@@ -48,4 +48,14 @@
             text-decoration: underline;
         }
     }
+
+    @media #{$mobile-dimens} {
+      position: relative;
+      width: 100%;
+      margin-bottom: 2em;
+      right: 0;
+      left: 0;
+      text-align: center;
+      top: 0;
+    }
 }
