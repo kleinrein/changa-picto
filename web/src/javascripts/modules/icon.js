@@ -40,7 +40,7 @@ export default class Icon {
   }
 
   getPngPath(size) {
-    return `images/png-${size}/${this.originalTitle.replace(".svg", ".png")}`
+    return `images/png-${size}/${this.originalTitle.replace(".svg", "")}-${size}.png`
   }
 
   setDisplay(cssVal) {
