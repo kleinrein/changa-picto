@@ -1,12 +1,19 @@
 {% extends 'layouts/application.html' %} {% block content %}
 <div class="overlay blur"></div>
-<div id="app">
+
+<img class="changa-picto-logo-big" src="images/changa-picto-logo.svg"  />
+<div id="app" style="display: none;">
     <img class="changa-picto-logo" src="images/changa-picto-logo.svg"  />
 
     <input type="text" placeholder="search" class="input-search" />
+    <div>
+        <a href="https://github.com/kleinrein/changa-picto/files/1066684/changa-picto-full-1.2.0.zip" class="btn--download">Download</a>
+    </div>
+    <p class="donate"><a href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=TuW8zxa-AUbLd2P-6gDxnruBGBr0u1fabpyAJVT5KnucZOMsqGcL8hrhsoO&dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&rapidsState=Donation__DonationFlow___StateDonationStart&rapidsStateSignature=f6923ed8759861f820a5324929c1c740b8df1565">DONATE?</a></p>
+
     <div class="icons">
         {% for icon in icons %}
-        <div class="icon">
+        <div class="icon" title="{{icon}}">
             <span class="icon-title" data-original="{{icon}}">{{icon}}</span>
             <img class="icon-img" src="images/svg/{{ icon }}" />
         </div>
@@ -46,7 +53,7 @@
             {{icons.length}} icons
         </p>
         <p>
-            v.1.1.0
+            v.1.2.0
         </p>
     </div>
 </div>

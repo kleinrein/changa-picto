@@ -12,6 +12,11 @@
 Changa Picto is a clean set of beautiful pixel perfect pictograms. Visit [changa picto](https://kleinrein.github.io/changa-picto/) to check out them out and download them as png or svg.
 
 ## Change log
+### 1.2
+- Path fixes to existing icons
+- 49 new icons
+- Change image icon
+
 ### 1.1
 - 24 new icons
 - Smaller svg

@@ -1,5 +1,19 @@
 import Icon from './modules/icon'
+import Velocity from 'velocity-animate'
 import anime from 'animejs'
+
+document.addEventListener("DOMContentLoaded",function(){
+    Velocity(document.querySelector(".changa-picto-logo-big"), {
+      opacity: 0,
+      scale: 0.9
+    }, {
+      duration: 600,
+      complete: function() {
+          document.querySelector(".changa-picto-logo-big").remove();
+          document.querySelector("#app").style.display = 'block';
+      }
+    })
+});
 
 let icons = []
 let filteredIcons = []

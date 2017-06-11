@@ -6,7 +6,7 @@
     },
     "dependencies": {
         "animejs": "^2.0.2",
-        "blendid": "^4.0.0",
+        "blendid": "^4.0.1",
         "velocity-animate": "^1.5.0"
     }
 }

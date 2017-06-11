@@ -7,3 +7,48 @@
     right: 0;
     top: .5em;
 }
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.changa-picto-logo-big {
+    max-width: 100%;
+    height: 45vw;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+  animation-fill-mode: both;
+    animation-name: pulse;
+}
+
+
+.donate {
+    color: #444;
+    margin-top: 1em;
+    letter-spacing: 3px;
+    font-size: .8rem;
+    a {
+        cursor: pointer;
+        text-decoration: none;
+        color: #000;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
