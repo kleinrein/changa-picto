@@ -9,7 +9,12 @@
 > The shaman is not merely a sick man, or a madman; he is a sick man who has healed himself. _Terence McKenna_
 
 ## Description
-Changa Picto is a clean set of beautiful pixel perfect pictograms. Visit [changa picto](https://kleinrein.github.io/changa-picto/) to check out them out and download them as png or svg.
+Changa Picto is a clean set of beautiful pixel perfect pictograms. Visit [changa picto](https://kleinrein.github.io/changa-picto/) to check out them out and download them as SVG or PNG.
+
+**Why use changa picto?**
+- They are super optimized (SVG)
+- Wide selection (and it's growing)
+- Download them as SVG's or PNG's
 
 ## Change log
 ### 1.2
